@@ -12,12 +12,16 @@ Live in Tokyo, Japan.
 
 ## Interest
 
-- Web technologies.
-- Computer Technorogies for medical.
-- Clean Architecture.
-- Cloud. Especially AWS.
-- Serverless architecture.
-- Ramen.
+- Web technologies
+  - Frameworks without virtual DOM
+- Computer Technorogies for medical
+  - like a DTx
+- DDD
+  - Clean Architecture
+- Cloud
+  - Especially AWS
+  - Serverless architecture
+- Ramen
 
 ## Certifications
 
