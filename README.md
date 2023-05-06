@@ -14,7 +14,8 @@ Live in Tokyo, Japan.
 
 - Web technologies
   - Frameworks without virtual DOM
-- Computer Technologies for medical
+  - GUI frameworks with web technologies
+- Computer technologies for healthcare
   - like a DTx
 - DDD
   - Clean Architecture
