@@ -16,13 +16,13 @@ Live in Tokyo, Japan.
   - Frameworks without virtual DOM
   - GUI frameworks with web technologies
 - Computer technologies for healthcare
-  - like a DTx
+  - such as DTx
 - DDD
   - Clean Architecture
 - Cloud
   - Especially AWS
   - Serverless architecture
-- Ramen
+  - Edge Computing like CloudFront Functions
 
 ## Certifications
 
