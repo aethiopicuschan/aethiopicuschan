@@ -12,17 +12,12 @@ Live in Tokyo, Japan.
 
 ## Interest
 
-- Web technologies
-  - Frameworks without virtual DOM
-  - GUI frameworks with web technologies
+- Web Frameworks without virtual DOM
+- GUI Frameworks with web technologies
+- 2D Game Engine
 - Computer technologies for healthcare
-  - such as DTx
-- DDD
-  - Clean Architecture
-- Cloud
-  - Especially AWS
-  - Serverless architecture
-  - Edge Computing like CloudFront Functions
+- Serverless architecture
+- Edge Computing
 
 ## Certifications
 
