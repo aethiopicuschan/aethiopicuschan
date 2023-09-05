@@ -18,6 +18,7 @@ Live in Tokyo, Japan.
 - Computer technologies for healthcare
 - Serverless architecture
 - Edge Computing
+- IaC
 
 ## Certifications
 
