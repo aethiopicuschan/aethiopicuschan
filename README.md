@@ -7,15 +7,16 @@ Live in Tokyo, Japan.
 ## Language
 
 - Golang
-- Python
+- Rust
 - TypeScript (including Node.js)
 
 ## Interest
 
 - Web Frameworks without virtual DOM
-- GUI Frameworks with web technologies
+- GUI Frameworks
 - 2D Game Engine
-- Computer technologies for healthcare
+- Retro Game console
+- WASM
 - Serverless architecture
 - Edge Computing
 - IaC
