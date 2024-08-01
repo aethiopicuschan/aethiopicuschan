@@ -1,8 +1,6 @@
 # aethiopicuschan
 
-Software engineer at a medical startup.
-
-Live in Tokyo, Japan.
+Software engineer living in Japan.
 
 ## Language
 
