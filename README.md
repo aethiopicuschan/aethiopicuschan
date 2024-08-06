@@ -2,18 +2,18 @@
 
 Software engineer living in Japan.
 
-## Language
+## Languages
 
 - Golang
 - Rust
-- TypeScript (including Node.js)
+- TypeScript (including Node.js, Deno, etc.)
 
-## Interest
+## Interests
 
 - Web Frameworks without virtual DOM
 - GUI Frameworks
-- 2D Game Engine
-- Retro Game console
+- 2D Game Engines
+- Retro Game consoles
 - WASM
 - Serverless architecture
 - Edge Computing
