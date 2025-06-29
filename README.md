@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aethiopicuschan" alt="aethiopicuschan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aethiopicuschan" target="blank"><img src="https://img.shields.io/twitter/follow/aethiopicuschan?logo=twitter&style=for-the-badge" alt="aethiopicuschan" /></a> </p>
-
 - 🔭 I’m currently working on **backend development with Golang**
 
 - 🌱 I’m currently learning **English**
@@ -13,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/aethiopicuschan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aethiopicuschan" height="30" width="40" /></a>
 <a href="https://twitter.com/aethiopicuschan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aethiopicuschan" height="30" width="40" /></a>
+<a href="https://dev.to/aethiopicuschan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aethiopicuschan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
