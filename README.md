@@ -20,6 +20,10 @@
 
 <h3 align="left">Badges:
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/3fa101ac-508a-4ed3-909e-13b64fb3d029" title="AWS Certified DevOps Engineer – Professional"><img src="https://images.credly.com/size/80x80/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="AWS Certified DevOps Engineer – Professional" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/a38e3c3b-3bca-4375-8c7e-13c8f1d25339" title="AWS Certified Solutions Architect – Professional"><img src="https://images.credly.com/size/80x80/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS Certified Solutions Architect – Professional" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/ecb6799d-d4b0-4346-a415-41b5447d3ece" title="AWS Certified Developer – Associate"><img src="https://images.credly.com/size/80x80/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/3eae2a24-2059-434e-89dc-bea1abeb7d9a" title="AWS Certified Solutions Architect – Associate"><img src="https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 </h3>
 
