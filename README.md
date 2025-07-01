@@ -25,8 +25,8 @@
 <a href="https://www.credly.com/badges/ecb6799d-d4b0-4346-a415-41b5447d3ece" title="AWS Certified Developer – Associate"><img src="https://images.credly.com/size/80x80/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/3eae2a24-2059-434e-89dc-bea1abeb7d9a" title="AWS Certified Solutions Architect – Associate"><img src="https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="80" height="80"></a>
 <!--END_SECTION:badges-->
-</h3>
 
+<h3 align="left">Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aethiopicuschan&show_icons=true&locale=en&layout=compact" alt="aethiopicuschan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aethiopicuschan&show_icons=true&locale=en" alt="aethiopicuschan" /></p>
