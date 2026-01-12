@@ -1,12 +1,13 @@
 <h1>Hi 👋, I'm Chan Aethiopicus</h1>
 <h3>Software engineer living in Japan.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aethiopicuschan" alt="aethiopicuschan" /></a> </p>
+<p>
+  ❤️ If you find my work useful, consider supporting me on  
+  <a href="https://github.com/sponsors/aethiopicuschan">GitHub Sponsors</a>.
+</p>
 
 - 🔭 I’m currently working on **backend development with Golang**
-
 - 🌱 I’m currently learning **English**
-
 - 📫 How to reach me **aethiopicuschan@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -25,10 +26,3 @@
 <a href="https://www.credly.com/badges/ecb6799d-d4b0-4346-a415-41b5447d3ece" title="AWS Certified Developer – Associate"><img src="https://images.credly.com/size/80x80/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/3eae2a24-2059-434e-89dc-bea1abeb7d9a" title="AWS Certified Solutions Architect – Associate"><img src="https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="80" height="80"></a>
 <!--END_SECTION:badges-->
-
-<h3 align="left">Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aethiopicuschan&show_icons=true&locale=en&layout=compact" alt="aethiopicuschan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aethiopicuschan&show_icons=true&locale=en" alt="aethiopicuschan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aethiopicuschan&" alt="aethiopicuschan" /></p>
